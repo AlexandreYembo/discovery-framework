@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/Discovery.Implementation.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/Discovery.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/Discovery.Framework.csproj",
+        "projectName": "Discovery.Framework",
+        "projectPath": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/Discovery.Framework.csproj",
+        "packagesPath": "/Users/alexandreyembo/.nuget/packages/",
+        "outputPath": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexandreyembo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/Discovery.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/Discovery.Implementation.csproj",
+        "projectName": "Discovery.Implementation",
+        "projectPath": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/Discovery.Implementation.csproj",
+        "packagesPath": "/Users/alexandreyembo/.nuget/packages/",
+        "outputPath": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexandreyembo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/Discovery.Framework.csproj": {
+                "projectPath": "/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/Discovery.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

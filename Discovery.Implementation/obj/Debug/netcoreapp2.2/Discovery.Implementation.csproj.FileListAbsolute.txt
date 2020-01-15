@@ -1,0 +1,14 @@
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.csprojAssemblyReference.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.csproj.CoreCompileInputs.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.AssemblyInfoInputs.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.AssemblyInfo.cs
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Implementation.deps.json
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Implementation.runtimeconfig.json
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Implementation.runtimeconfig.dev.json
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Implementation.dll
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Implementation.pdb
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Framework.dll
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/bin/Debug/netcoreapp2.2/Discovery.Framework.pdb
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.csproj.CopyComplete
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.dll
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.pdb

@@ -1,0 +1,9 @@
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.csprojAssemblyReference.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.csproj.CoreCompileInputs.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.AssemblyInfoInputs.cache
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.AssemblyInfo.cs
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/bin/Debug/netstandard2.0/Discovery.Framework.deps.json
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/bin/Debug/netstandard2.0/Discovery.Framework.dll
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/bin/Debug/netstandard2.0/Discovery.Framework.pdb
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.dll
+/Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Framework/obj/Debug/netstandard2.0/Discovery.Framework.pdb
