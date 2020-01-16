@@ -10,8 +10,12 @@
 #### Parameters
 DistinctBy expects only your expression. Basically the method passing a ```Func<T, TKey> property``` that means your expression defined by a property you want to use to distinct the as an element of your list.
 
-#### Classes and References
-1 - [DistinctExtension.cs](https://github.com/AlexandreYembo/discovery-framework/tree/master/Discovery.Extensions/Linq/DistinctExtension.cs) 
+#### Classes
+[DistinctExtension.cs](https://github.com/AlexandreYembo/discovery-framework/tree/master/Discovery.Extensions/Linq/DistinctExtension.cs) 
+
+#### References
+[GeneralPropertyComparer.cs](https://github.com/AlexandreYembo/discovery-framework/tree/master/Discovery.Extensions/Linq/GeneralPropertyComparer.cs) 
+
 
 #### How to implement
 In your project, if you want to distinct a list of duplicated element you can pass as parameter the propert you want to use comparison.
