@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v2.2": {
       "Discovery.Implementation/1.0.0": {
         "dependencies": {
-          "Discovery.Framework": "1.0.0"
+          "Discovery.Extensions": "1.0.0"
         },
         "runtime": {
           "Discovery.Implementation.dll": {}
         }
       },
-      "Discovery.Framework/1.0.0": {
+      "Discovery.Extensions/1.0.0": {
         "runtime": {
-          "Discovery.Framework.dll": {}
+          "Discovery.Extensions.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Discovery.Framework/1.0.0": {
+    "Discovery.Extensions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

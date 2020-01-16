@@ -12,3 +12,17 @@
 /Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.csproj.CopyComplete
 /Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.dll
 /Users/alexandreyembo/Projects/Development/GitRepositories/discovery-framework/Discovery.Implementation/obj/Debug/netcoreapp2.2/Discovery.Implementation.pdb
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.csprojAssemblyReference.cache
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.csproj.CoreCompileInputs.cache
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.AssemblyInfoInputs.cache
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.AssemblyInfo.cs
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.dll
+c:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.pdb
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Implementation.deps.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Implementation.runtimeconfig.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Implementation.runtimeconfig.dev.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Implementation.dll
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Implementation.pdb
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Extensions.dll
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp2.2\Discovery.Extensions.pdb
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp2.2\Discovery.Implementation.csproj.CopyComplete

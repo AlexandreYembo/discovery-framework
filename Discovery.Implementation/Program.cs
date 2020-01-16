@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using Discovery.Framework.Extensions.Linq;
+using Discovery.Extensions.Linq;
 
 namespace Discovery.Implementation
 {

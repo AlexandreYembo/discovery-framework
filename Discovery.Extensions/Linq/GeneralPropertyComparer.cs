@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Discovery.Framework.Extensions.Linq
+namespace Discovery.Extensions.Linq
 {
     public class GeneralPropertyComparer<T, TKey> : IEqualityComparer<T>
     {

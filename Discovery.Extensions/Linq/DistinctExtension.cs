@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Discovery.Framework.Extensions.Linq
+namespace Discovery.Extensions.Linq
 {
     public static class DistinctExtension 
     {

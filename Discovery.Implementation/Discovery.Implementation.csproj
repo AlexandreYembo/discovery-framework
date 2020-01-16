@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Discovery.Framework\Discovery.Framework.csproj" />
+    <ProjectReference Include="..\Discovery.Extensions\Discovery.Extensions.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
