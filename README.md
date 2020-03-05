@@ -8,4 +8,4 @@ This project contains many functions to help the developement
 
 
 ### Dotnet Core Version:
-V1 - Dotnet core 3.1 (TODO)
+Framework version 1.0 - Dotnet core 3.1 (TODO)
