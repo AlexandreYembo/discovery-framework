@@ -1,0 +1,14 @@
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.exe
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.deps.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.runtimeconfig.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.runtimeconfig.dev.json
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.dll
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Implementation.pdb
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Extensions.dll
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\bin\Debug\netcoreapp3.1\Discovery.Extensions.pdb
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.csprojAssemblyReference.cache
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.AssemblyInfoInputs.cache
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.AssemblyInfo.cs
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.csproj.CopyComplete
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.dll
+C:\Git_Repositories\discovery-framework\Discovery.Implementation\obj\Debug\netcoreapp3.1\Discovery.Implementation.pdb
